@@ -1,0 +1,2 @@
+# Skin-Care-Product-Recommendation-System-Python-SQL-
+Developed an intelligent recommendation system that suggests the most suitable skincare products based on a user’s skin type, concerns, budget, and environmental factors. The system uses a structured SQL database of products and a Python-based logic engine to recommend top matches. Built a clean command-line or GUI interface for user interaction.
